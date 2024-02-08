@@ -13,7 +13,7 @@ import bridges.base.BinTreeElement;
 import java.util.*;
 import java.util.Arrays;
 
-public class Project5<E> {
+public class ParseTree<E> {
 
     /**
      * passes in a mathmematical expression to build binary tree.
